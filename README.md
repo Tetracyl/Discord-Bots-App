@@ -4,8 +4,8 @@ Welcome to the official Discord Bots App issue reporting page. By reporting an i
 **Before you report an issue check our [Trello](https://trello.com/b/YjJnNsLo/discord-bots-app) and [Exisiting Issue List](https://github.com/discordbotsapp/Discord-Bots-App/issues)**
 
 When reporting an issue make sure the following criteria is met:
-- You are able to provide steps on how to report the issue you have encountered.
-- You are able to replicate this issue on other devices that are the same make/model as yours
+1) You are able to provide steps on how to report the issue you have encountered.
+2) You are able to replicate this issue on other devices that are the same make/model as yours
 
 
 ## Discussing An Issue
