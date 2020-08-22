@@ -5,7 +5,7 @@ Welcome to the official Discord Bots App issue reporting page. By reporting an i
 
 When reporting an issue make sure the following criteria is met:
 1) You are able to provide steps on how to report the issue you have encountered.
-2) You are able to replicate this issue on other devices that are the same make/model as yours
+2) You are able to replicate this issue on other devices that are the same make/model as yours.
 
 
 ## Discussing An Issue
